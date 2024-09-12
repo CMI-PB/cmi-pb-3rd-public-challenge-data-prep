@@ -409,7 +409,7 @@ master_database_data_challenge <- list(
     
     wide_raw_count = pbmc_gene_expression_wide_challenge_raw_count,
     wide_tpm = pbmc_gene_expression_wide_challenge_tpm,
-    long = pbmc_gene_expression_long
+    long = d2023_pbmc_gene_expression
     ),
   t_cell_polarization = list(
     
